@@ -1,6 +1,6 @@
 {
   "name": "@blockstack/prettier-config",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "Blockstack's default Prettier configuration",
   "main": "prettier.config.js",
   "homepage": "https://github.com/blockstack/prettier-config",
